@@ -1,7 +1,9 @@
 # robot 
 ----------------------- 
 Zlib: 
+
 ./configure 
+
 make  
 make install 
 ----------------------- 
